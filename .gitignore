@@ -1,0 +1,25 @@
+.gradle/
+.idea/gradle.xml
+.idea/
+app/debug/output.json
+app/debug/
+build/
+
+# Gradle directory
+.gradle/
+build/
+
+# files for the dex VM
+*.dex
+
+#built application files
+*.apk
+*.ap_
+
+# Java class files
+*.class
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+
